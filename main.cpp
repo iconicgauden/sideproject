@@ -11,7 +11,7 @@ int findFirst(string pattern, string text){
     cout << "No Match Found!"<< endl;
     return -1;
     
-
+//yes
     }
 int levenshteinDistance(const std::string& str1, const std::string& str2) {
     int m = str1.length();
